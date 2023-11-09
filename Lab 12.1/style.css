@@ -1,0 +1,44 @@
+.bg-img1 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/pexels-craig-adderley-1563356.jpg);
+  padding-top: 33%;
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/sa_pixar_virtualbg_coco_16x9_9ccd7110.jpeg);
+  padding-top: 33%;
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(/25.background-of-galaxy-and-stars.jpg);
+  /* height: 650px; */
+  padding-top: 33%;
+}
+/* .carousel-caption {
+  text-align: left;
+} */
+.carousel-inner {
+  width: 100%;
+}
+/* h1 {
+  margin-top: 2rem;
+} */
+
+.footer-left {
+  display: flex;
+}
+.lead {
+  font-size: medium;
+}
+li {
+  display: inline-block;
+  padding-right: 5px;
+}
+ul {
+  margin-left: -15px;
+}
